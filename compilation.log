@@ -1,0 +1,353 @@
+********************************************************************************
+*                             2018年2月16日 11:59:27                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-6228efbcff4a89245a75b08efcad974e
+Exit code: 0
+Elapsed time: 1.04 sec
+
+- Output (17 lines):
+0: Assets\ML-Agents\Scripts\Academy.cs(51,17): warning CS0649: Field 'Academy.frameToSkip' is never assigned to, and will always have its default value 0
+1: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(20,20): warning CS0649: Field 'CoreBrainPlayer.DiscretePlayerAction.value' is never assigned to, and will always have its default value 0
+2: Assets\ML-Agents\Scripts\Academy.cs(64,30): warning CS0649: Field 'Academy.defaultResetParameters' is never assigned to, and will always have its default value null
+3: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(26,24): warning CS0649: Field 'CoreBrainPlayer.ContinuousPlayerAction.key' is never assigned to, and will always have its default value
+4: Assets\ML-Agents\Scripts\Academy.cs(42,23): warning CS0649: Field 'Academy.ResetParameter.key' is never assigned to, and will always have its default value null
+5: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(34,22): warning CS0649: Field 'CoreBrainInternal.TensorFlowAgentPlaceholder.minValue' is never assigned to, and will always have its default value 0
+6: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(35,22): warning CS0649: Field 'CoreBrainInternal.TensorFlowAgentPlaceholder.maxValue' is never assigned to, and will always have its default value 0
+7: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(38,36): warning CS0649: Field 'CoreBrainPlayer.discretePlayerActions' is never assigned to, and will always have its default value null
+8: Assets\ML-Agents\Scripts\Academy.cs(53,19): warning CS0649: Field 'Academy.waitTime' is never assigned to, and will always have its default value 0
+9: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(33,27): warning CS0649: Field 'CoreBrainInternal.TensorFlowAgentPlaceholder.valueType' is never assigned to, and will always have its default value
+10: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(19,24): warning CS0649: Field 'CoreBrainPlayer.DiscretePlayerAction.key' is never assigned to, and will always have its default value
+11: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(32,23): warning CS0649: Field 'CoreBrainInternal.TensorFlowAgentPlaceholder.name' is never assigned to, and will always have its default value null
+12: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(28,22): warning CS0649: Field 'CoreBrainPlayer.ContinuousPlayerAction.value' is never assigned to, and will always have its default value 0
+13: Assets\ML-Agents\Scripts\CoreBrainPlayer.cs(27,20): warning CS0649: Field 'CoreBrainPlayer.ContinuousPlayerAction.index' is never assigned to, and will always have its default value 0
+14: Assets\ML-Agents\Scripts\Academy.cs(49,17): warning CS0649: Field 'Academy.maxSteps' is never assigned to, and will always have its default value 0
+15: Assets\ML-Agents\Scripts\Academy.cs(43,22): warning CS0649: Field 'Academy.ResetParameter.value' is never assigned to, and will always have its default value 0
+16: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(20,18): warning CS0414: The field 'CoreBrainInternal.broadcast' is assigned but its value is never used
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp.dll
+Exit code: 0
+Elapsed time: 0.29 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 11:59:29                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp-Editor.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-44d36f7c890d90a439adcfee4ef63d3e
+Exit code: 0
+Elapsed time: 0.76 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+- PDB to MDB conversion --------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\pdb2mdb.exe
+Arguments: Temp\Assembly-CSharp-Editor.dll
+Exit code: 0
+Elapsed time: 0.21 sec
+
+- Output (0 lines):
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:00:20                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-8c4ce676172000340adfa423fa7f48b0
+Exit code: 1
+Elapsed time: 0.49 sec
+
+- Output (6 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+4: Assets\Scrips\BaiduDog.cs(4,7): error CS0246: The type or namespace name 'Baidu' could not be found (are you missing a using directive or an assembly reference?)
+5: Assets\Scrips\BaiduDog.cs(12,5): error CS0246: The type or namespace name 'Baidu' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:00:28                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-8b723ebfc19d10f42a42d86afbc6af05
+Exit code: 1
+Elapsed time: 0.50 sec
+
+- Output (4 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:00:35                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-0846fd432c48d2c4a809a405bae8bffa
+Exit code: 1
+Elapsed time: 0.53 sec
+
+- Output (4 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:00:37                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-8e2342bdb5ab0fd40adf97662160c0bb
+Exit code: 1
+Elapsed time: 0.54 sec
+
+- Output (4 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:00:47                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-a162f731180d3d341bbedd25feba4296
+Exit code: 1
+Elapsed time: 0.48 sec
+
+- Output (4 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:01:05                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-175f85100d680944fa7a1fbce30b2e4b
+Exit code: 1
+Elapsed time: 0.55 sec
+
+- Output (5 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+4: Assets\Scrips\TensorFlowDog.cs(5,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:01:35                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-d4a0e9a5890807440a4b3f5c154e4fc1
+Exit code: 1
+Elapsed time: 0.49 sec
+
+- Output (5 lines):
+0: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAcademy.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\ML-Agents\Examples\GridWorld\Scripts\GridAgent.cs(7,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\ExternalCommunicator.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\Monitor.cs(5,7): error CS0246: The type or namespace name 'Newtonsoft' could not be found (are you missing a using directive or an assembly reference?)
+4: Assets\Scrips\TensorFlowDog.cs(5,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:01:46                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-6d722940a4f491e479ed0c388ca85093
+Exit code: 1
+Elapsed time: 0.46 sec
+
+- Output (1 line):
+0: Assets\Scrips\TensorFlowDog.cs(5,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:05:46                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-8b644022b5622c44d89917bfd7c53d76
+Exit code: 1
+Elapsed time: 0.57 sec
+
+- Output (4 lines):
+0: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(12,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+1: Assets\Scrips\TensorFlowDog.cs(5,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+2: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(61,5): error CS0246: The type or namespace name 'TFGraph' could not be found (are you missing a using directive or an assembly reference?)
+3: Assets\ML-Agents\Scripts\CoreBrainInternal.cs(62,5): error CS0246: The type or namespace name 'TFSession' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
+********************************************************************************
+*                             2018年2月16日 12:06:16                              *
+********************************************************************************
+CSharpCompilerWrapper.exe version: 4.0.2.220
+Unity version: 2017.2.0f3
+Platform: Windows
+Target assembly: Assembly-CSharp.dll
+Project directory: D:\lizhi\Projects\Unity\God Miner Online
+Target profile directory: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5
+Unity Mono executable: C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
+Compiler: Microsoft C# 7.2 (2.6.0.62329)
+
+- Compilation ------------------------------------------------
+
+Process: D:\lizhi\Projects\Unity\God Miner Online\CSharp70Support\Roslyn\csc.exe
+Arguments: -noconfig @Temp/UnityTempFile-fd10cbeaab57f7e49a56cb1a42597f60
+Exit code: 1
+Elapsed time: 0.50 sec
+
+- Output (1 line):
+0: Assets\Scrips\TensorFlowDog.cs(5,7): error CS0246: The type or namespace name 'TensorFlow' could not be found (are you missing a using directive or an assembly reference?)
+
+- Errors (0 lines):
+
